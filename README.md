@@ -73,13 +73,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifeddineDouidy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifeddineDouidy&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
