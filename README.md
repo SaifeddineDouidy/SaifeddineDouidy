@@ -1,12 +1,12 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Saifeddine%20Douidy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20|%20AI%20|%20Big%20Data%20Engineering&descAlignY=55&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Saifeddine%20Douidy&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Cloud%20Platform%20Engineer%20|%20Kubernetes%20|%20eBPF%20|%20IaC%20|%20SRE&descAlignY=55&descAlign=50)
 
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Big+Data+Student+at+ENSAJ;AI+%26+ML+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=550&lines=Cloud+%26+Platform+Engineer;Kubernetes+%26+Cilium+eBPF+Architecture;OpenTofu+%26+Immutable+Infrastructure;Distributed+Systems+Reliability+%26+SRE)](https://git.io/typing-svg)
   
 </div>
 
@@ -15,63 +15,86 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=SaifeddineDouidy&color=blue)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saifeddine-douidy-87aa62251)
   [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@douidysaifeddine)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:douidysaifeddine@gmail.com)
   
 </div>
 
-## 💫 About Me
+---
 
-![Role](https://img.shields.io/badge/Role-Big%20Data%20Student-blue)
-![School](https://img.shields.io/badge/School-ENSAJ-green)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML-red)
-![Languages](https://img.shields.io/badge/Languages-Arabic%20%7C%20English%20%7C%20French-yellow)
+## 🏛️ Executive Summary
 
-## 🚀 What I'm Currently Working On
+Senior Cloud & Platform Engineer specializing in high-resilience infrastructure, zero-trust enterprise platforms, and cloud-native distributed systems. Deeply focused on first-principles system dynamics—from Linux kernel eBPF packet routing and CFS scheduling to multi-cloud OpenTofu automation and sovereign hybrid enclaves across EMEA and the GCC.
 
-- 🤖 Advancing my expertise in **Deep Learning** and **Neural Networks**
-- 📊 Building scalable data pipelines and ETL processes
-- 💡 Exploring latest developments in **LLMs** and **Computer Vision**
-- 🌐 Developing full-stack applications with modern tech stacks
+```
+       +-------------------------------------------------------------+
+       |                  Cloud & Platform Fabric                     |
+       +-------------------------------------------------------------+
+               |                       |                       |
+               v                       v                       v
+     [ Kubernetes & eBPF ]   [ OpenTofu / IaC Mesh ]   [ SRE & Resilience ]
+     - Cilium CNI / XDP      - Declarative Workspaces  - Tail Latency (p99)
+     - Multi-Cluster Fleets  - Monolith Decomposition  - Discrete-Event Sim
+     - KEDA / Ingress Core   - Drift Detection Engine  - Zero-Trust (mTLS)
+```
 
-## 🛠️ Tech Arsenal
+---
 
-<details>
-<summary>🤖 AI & Data Science</summary>
+## 🛠️ Technical Arsenal & Core Pillars
+
+<details open>
+<summary><b>☸️ Kubernetes & Cloud-Native Platforms</b></summary>
 <br>
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- **Orchestration & Runtimes:** Kubernetes (EKS, AKS, GKE, k3s, Talos), Linux Containers (`cgroups v2`, `containerd`).
+- **Networking & eBPF:** Cilium eBPF CNI (XDP bypass, socket-level routing `sockops`, L7 Network Policies), Traefik, NGINX Ingress Controller.
+- **Autoscaling & Storage:** KEDA (Event-Driven Autoscaling), HPA tuning, Rook / Ceph CSI persistent storage fabrics.
+
 </details>
 
-<details>
-<summary>⚡ Backend Development</summary>
+<details open>
+<summary><b>🏗️ Infrastructure as Code & Multi-Cloud Architecture</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- **IaC Tooling:** OpenTofu, Terraform, Terragrunt, State locking mechanisms, non-destructive monolith decomposition.
+- **Public & Hybrid Cloud:** AWS, Microsoft Azure, Google Cloud (GCP), Oracle Cloud (OCI), Hetzner, OVHcloud.
+- **Enterprise & Sovereign Infrastructure:** Nutanix Enterprise Cloud (AHV hypervisor, Stargate DSF), sovereign compliance (data residency, SecNumCloud 3.2 paradigms).
+
 </details>
 
-<details>
-<summary>🎨 Frontend & Mobile</summary>
+<details open>
+<summary><b>🛡️ Zero-Trust, Security & DevSecOps</b></summary>
 <br>
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- **Identity & Secrets:** HashiCorp Vault (Dynamic Secrets, Kubernetes ServiceAccount Token Projection), SPIFFE / SPIRE.
+- **Mesh & Connectivity:** NetBird & Tailscale (WireGuard kernel mesh), strict mTLS enclaves.
+- **Supply Chain & Delivery:** Automated DevSecOps pipelines, Trivy, Cosign, SBOM generation, GitOps (ArgoCD / Flux).
+
 </details>
 
-<details>
-<summary>🗄️ Databases</summary>
+<details open>
+<summary><b>📈 SRE, Distributed Systems & Observability</b></summary>
 <br>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **Performance Physics:** Queueing dynamics (Little's Law, Kingman's formula), Linux CFS CPU quota throttle avoidance, p99 tail latency containment.
+- **Resilience Engineering:** Discrete-event simulation (Breakscale), circuit breaker state machines, adaptive rate limiters, retry storm dampening.
+- **Metrics & Tracing:** Prometheus, Grafana, OpenTelemetry (OTel), Jaeger, eBPF Hubble observability.
+
 </details>
+
+---
+
+## 🔬 Featured Architectures & Showcase Repositories
+
+| Repository | Focus & Domain | Tech Stack |
+| :--- | :--- | :--- |
+| [**Terraform-X**](https://github.com/SaifeddineDouidy/Terraform-X) | Multi-Cloud Declarative Infrastructure & Resilient IaC Modules | OpenTofu / HCL, Multi-Cloud |
+| [**DevSecOps_Pipeline**](https://github.com/SaifeddineDouidy/DevSecOps_Pipeline) | Enterprise CI/CD Security, Container Vulnerability Scans & Gating | CI/CD, Container Security, Automation |
+| [**MLSecOps_Pipeline**](https://github.com/SaifeddineDouidy/MLSecOps_Pipeline) | Hardened ML/AI Pipelines, Model Provenance & Artifact Attestation | Python, Security Hardening, Pipelines |
+| [**microservice-project**](https://github.com/SaifeddineDouidy/microservice-project) | Scalable Cloud-Native Microservices with Resilient IPC Patterns | TypeScript, Distributed Services, Docker |
+| [**advanced-rag**](https://github.com/SaifeddineDouidy/advanced-rag) | Production-Grade Retrieval Architecture & Distributed Knowledge Indexing | Python, Vector Runtimes, Embeddings |
+| [**reAct-agent**](https://github.com/SaifeddineDouidy/reAct-agent) | Autonomous Tool Execution, Task Decomposition & Reasoning Systems | Python, Agentic Frameworks, Orchestration |
+
+---
 
 ## 🤝 Let's Connect
 
