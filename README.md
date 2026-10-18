@@ -1,114 +1,104 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Saifeddine%20Douidy&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20Software%20Engineer%20|%20DevOps%20|%20Microservices%20|%20Full%20Stack&descAlignY=55&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Saifeddine%20Douidy&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20|%20AWS%20|%20GCP%20|%20Kubernetes%20|%20Terraform&descAlignY=55&descAlign=50)
 
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=620&lines=Cloud+%26+Software+Engineer;DevOps%2C+CI%2FCD+%26+Infrastructure+as+Code;Microservices+%26+Backend+Architecture;Applied+AI+%26+Agentic+Systems+(RAG%2C+ReAct))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer;AWS+%26+GCP+Multi-Cloud+Infrastructure;Production+Kubernetes+(EKS)+%26+LiveKit+Real-Time+Audio;Zero-Trust+NetBird%2FWireGuard+Mesh+%26+OIDC+Federation;Terraform+Modular+IaC+%26+Enterprise+GitOps)](https://git.io/typing-svg)
   
 </div>
 
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=SaifeddineDouidy&color=blue)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saifeddine-douidy-87aa62251)
-  [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@douidysaifeddine)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:douidysifeddine@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saifeddine-douidy-87aa62251/)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:douidysaifeddine@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=flat&logo=github)](https://github.com/SaifeddineDouidy)
   
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile Summary
 
-Hi! I'm **Saifeddine Douidy**, a **Cloud & Software Engineer** based in Morocco with a strong background in computer systems, networking, and software engineering.
+**Cloud & DevOps Engineer** with proven production experience architecting, operating, and automating mission-critical multi-cloud infrastructure across **AWS** and **Google Cloud (GCP)**. 
 
-- 🎓 **Education:** Engineering Degree student in Computer Science & Emerging Technologies at **ENSAJ** (*École Nationale des Sciences Appliquées d'El Jadida*); Licence in Computer Networks & Multimedia (IRM) from **FST Mohammedia**.
-- 💼 **Experience:** Former intern at **Vivo Energy Maroc** (IT workflow automation & operational analytics).
-- 🚀 **Focus:** Designing resilient backend architectures, automating infrastructure with **Terraform & Docker**, implementing secure **CI/CD pipelines**, and building applied AI systems (**RAG & Agentic workflows**).
+- 💼 **Current Role:** Cloud & DevOps Engineer at **ToumAI** — engineering multi-cloud infrastructure and real-time AI platforms for conversational voice systems.
+- 🎓 **Education:** State Engineering Degree in **Big Data & Cloud Computing** from **ENSAJ** (*École Nationale des Sciences Appliquées d'El Jadida*, 2023–2026); Bachelor's Degree in **Computer Networks & Multimedia** from **FST Mohammedia** (2020–2023).
+- 📜 **Certifications:** AWS Academy (*Cloud Architecting*, *Cloud Developing*, *Cloud Foundations*).
+- 🎯 **Core Focus:** Production Kubernetes (EKS), zero-downtime cross-cloud migrations, zero-trust overlay meshes (NetBird / WireGuard), credential-less multi-cloud CI/CD (OIDC STS & Workload Identity), and modular Terraform IaC governance.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Production Tech Stack & Capabilities
 
 <details open>
-<summary><b>☁️ Cloud, DevOps & Infrastructure</b></summary>
+<summary><b>☁️ Cloud Platforms & Architecture</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+- **AWS:** VPC, EKS, ECS, NLB/ALB (Layer-4 & Layer-7 Ingress), Route 53 & Private Resolver Endpoints, IAM, CloudWatch.
+- **Google Cloud:** Cloud Run GPU (NVIDIA L4 scale-to-zero inference), VPC, Google Cloud FAST (Foundation Fabric), Workload Identity.
+- **Multi-Cloud Migrations:** Zero-downtime database and platform migrations with zero commit loss and private interconnects.
+</details>
+
+<details open>
+<summary><b>☸️ Containers, Orchestration & Networking</b></summary>
+<br>
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+
+- **Production Kubernetes:** EKS cluster operations, CNI, direct Pod IP routing with sub-millisecond voice latency, Helm chart packaging.
+- **Real-Time Streaming:** LiveKit WebRTC distributed clusters, binary AudioSocket protocol daemons.
+- **Zero-Trust Mesh & Networking:** NetBird WireGuard overlay mesh (50+ peers across cloud & dev fleets), Coturn P2P NAT traversal, Envoy Proxy.
+</details>
+
+<details open>
+<summary><b>🏗️ Infrastructure as Code & GitOps</b></summary>
 <br>
 
 ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- Infrastructure as Code (Terraform modular architecture)
-- Containerization & Multi-container Orchestration (Docker, Docker Compose)
-- Automated CI/CD Pipelines, Linting & Security Scanning (DevSecOps)
+- Modular Terraform architecture with remote state locking (S3/DynamoDB).
+- Google Cloud Foundation Fabric (FAST) blueprints and automated drift detection.
+- Linux systems administration and enterprise infrastructure governance.
 </details>
 
 <details open>
-<summary><b>⚡ Backend & Distributed Architecture</b></summary>
+<summary><b>🔒 CI/CD, DevSecOps & Identity Federation</b></summary>
 <br>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- Microservices Architecture (API Gateway, Service Discovery, Decoupled Services)
-- RESTful APIs, Clean Architecture, and Design Patterns
-</details>
-
-<details open>
-<summary><b>🎨 Frontend & Web Development</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-- Modern responsive web applications, component-driven UI
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-</details>
-
-<details open>
-<summary><b>🤖 Applied AI & Machine Learning</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-- Retrieval-Augmented Generation (RAG) & Vector Search
-- Autonomous LLM Agents (ReAct Pattern)
-- ML Pipeline Automation & Security (MLSecOps)
+- **Zero Static Credentials:** Multi-Cloud OIDC federation (AWS STS & GCP Workload Identity).
+- **Automated Quality & Security Gates:** Trivy vulnerability scans, SonarQube quality gates, Infracost budget analysis.
+- **GitLab & GitHub CI Engines:** Standardized CI/CD template engines deploying to ECS, EKS, and GKE.
 </details>
 
 ---
 
-## 🔬 Featured Projects
+## 🔬 Featured Projects & Codebases
 
-| Repository | Description | Key Technologies |
+| Repository | Focus & Domain | Technologies |
 | :--- | :--- | :--- |
-| [**Terraform-X**](https://github.com/SaifeddineDouidy/Terraform-X) | Declarative multi-environment Infrastructure as Code (IaC) modular framework. | Terraform, HCL, Cloud IaC |
-| [**DevSecOps_Pipeline**](https://github.com/SaifeddineDouidy/DevSecOps_Pipeline) | Automated CI/CD pipeline with security scanning, container builds, and test gating. | Next.js, Docker, GitHub Actions |
-| [**microservice-project**](https://github.com/SaifeddineDouidy/microservice-project) | Multi-service distributed architecture with Service Discovery, API Gateway, and Docker Compose. | Java / Spring Boot, Microservices, Docker |
-| [**MLSecOps_Pipeline**](https://github.com/SaifeddineDouidy/MLSecOps_Pipeline) | Machine learning lifecycle pipeline with integrated model compliance and verification. | Python, ML Pipelines, CI/CD |
-| [**advanced-rag**](https://github.com/SaifeddineDouidy/advanced-rag) | Document indexing and retrieval-augmented generation engine using modern vector workflows. | Python, Embeddings, RAG |
-| [**reAct-agent**](https://github.com/SaifeddineDouidy/reAct-agent) | Autonomous reasoning agent implementing the ReAct (Reason + Act) loop with custom tool integration. | Python, Agentic AI |
+| [**Terraform-X**](https://github.com/SaifeddineDouidy/Terraform-X) | Production-grade modular Infrastructure as Code (IaC) blueprints & state management. | Terraform, HCL, Multi-Cloud |
+| [**DevSecOps_Pipeline**](https://github.com/SaifeddineDouidy/DevSecOps_Pipeline) | Automated CI/CD security gatekeeper, container vulnerability scanning, and testing workflows. | Docker, GitHub Actions, DevSecOps |
+| [**microservice-project**](https://github.com/SaifeddineDouidy/microservice-project) | Distributed microservices architecture with API Gateway, Service Discovery, and containerization. | Java / Spring Boot, Docker Compose |
+| [**MLSecOps_Pipeline**](https://github.com/SaifeddineDouidy/MLSecOps_Pipeline) | Machine learning pipeline automation with integrated compliance and security evaluation. | Python, ML Pipelines, CI/CD |
+| [**advanced-rag**](https://github.com/SaifeddineDouidy/advanced-rag) | Document indexing and Retrieval-Augmented Generation (RAG) system with vector workflows. | Python, Embeddings, RAG |
+| [**reAct-agent**](https://github.com/SaifeddineDouidy/reAct-agent) | Autonomous tool execution and task decomposition agent implementing the ReAct pattern. | Python, Agentic AI |
 
 ---
 
@@ -116,9 +106,8 @@ Hi! I'm **Saifeddine Douidy**, a **Cloud & Software Engineer** based in Morocco 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifeddine-douidy-87aa62251)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@douidysaifeddine)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douidysifeddine@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifeddine-douidy-87aa62251/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douidysaifeddine@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaifeddineDouidy)
 
 </div>
